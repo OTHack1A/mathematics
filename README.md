@@ -32,6 +32,7 @@ You can open them directly in the browser or download them at no cost.
 | [Trattato\_del\_Cerchio\_Vol4.pdf](Pdf/Trattato_del_Cerchio_Vol4.pdf) | Geometry | Treatise on the Circle — Volume 4 |
 | [Trattato\_del\_Cerchio\_Vol5.pdf](Pdf/Trattato_del_Cerchio_Vol5.pdf) | Geometry | Treatise on the Circle — Volume 5 |
 | [Trattato\_del\_Cerchio\_Vol6.pdf](Pdf/Trattato_del_Cerchio_Vol6.pdf) | Geometry | Treatise on the Circle — Volume 6 |
+| [Trattato\_del\_Cerchio\_Appendice.pdf](Pdf/Trattato_del_Cerchio_Appendice.pdf) | Geometry | Treatise on the Circle — Appendix |
 
 ---
 
@@ -63,6 +64,7 @@ A comprehensive six-volume treatise exploring the geometry of the circle from it
 | **[Vol. 4](Pdf/Trattato_del_Cerchio_Vol4.pdf)** | Circles and polygons — inscribed, circumscribed, and regular polygons |
 | **[Vol. 5](Pdf/Trattato_del_Cerchio_Vol5.pdf)** | Power of a point, radical axis, coaxial circle systems |
 | **[Vol. 6](Pdf/Trattato_del_Cerchio_Vol6.pdf)** | Advanced theorems, synthesis, and fully solved application problems |
+| **[Appendix](Pdf/Trattato_del_Cerchio_Appendice.pdf)** | Supplementary material and reference results complementing Volumes 1–6 |
 
 ---
 
